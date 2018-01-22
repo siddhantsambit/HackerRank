@@ -1,7 +1,7 @@
 /**
  * 
  */
-package algorithms;
+package warmup;
 
 import java.util.Arrays;
 import java.util.Scanner;
@@ -42,5 +42,6 @@ public class MiniMaxSum {
         }
         
         System.out.print(max);
+        in.close();
     }
 }

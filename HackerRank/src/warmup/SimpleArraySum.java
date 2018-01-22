@@ -1,7 +1,7 @@
 /**
  * 
  */
-package algorithms;
+package warmup;
 
 import java.util.Scanner;
 
