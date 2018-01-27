@@ -9,7 +9,7 @@ import java.util.Scanner;
  * @author BABAI
  *
  */
-public class GradingStudents {
+class GradingStudents {
 	static int[] solve(int[] grades){
         // Complete this function
 		for(int i = 0 ; i < grades.length ; i ++){
