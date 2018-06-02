@@ -48,6 +48,8 @@ class SockMerchant {
         
         System.out.println(count);
         
+        in.close();
+        
     }
 
 }
