@@ -9,7 +9,7 @@ import java.util.Scanner;
  * @author BABAI
  *
  */
-public class FindDigits {
+class FindDigits {
 
 	/**
 	 * @param args
