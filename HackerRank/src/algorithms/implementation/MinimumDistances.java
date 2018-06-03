@@ -10,7 +10,7 @@ import java.util.Scanner;
  * @author BABAI
  *
  */
-public class MinimumDistances {
+class MinimumDistances {
 
 	/**
 	 * @param args
