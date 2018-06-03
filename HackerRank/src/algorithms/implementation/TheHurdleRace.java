@@ -21,7 +21,7 @@ class TheHurdleRace {
 			height[height_i] = in.nextInt();
 		}
 		Arrays.sort(height);
-		System.out.println(k < height[n - 1] ? height[n - 1] - k  : 0);
+		System.out.println(k < height[n - 1] ? height[n - 1] - k : 0);
 		in.close();
 	
     }
